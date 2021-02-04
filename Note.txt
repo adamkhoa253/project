@@ -1,0 +1,4 @@
+query string
+constructer
+
+pass và re_pass regular expression laravel validation (regex)
